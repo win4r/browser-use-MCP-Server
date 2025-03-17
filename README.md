@@ -1,7 +1,7 @@
 # browser-use MCP Server
 
-### 对应视频： https://youtu.be/jsd8TpzicRQ
-### 我的微信：stoeng
+### 🔥对应视频： https://youtu.be/jsd8TpzicRQ
+### 🔥我的微信：stoeng
 
 A Model Context Protocol server
 
