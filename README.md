@@ -1,5 +1,8 @@
 # browser-use MCP Server
 
+### 对应视频： https://youtu.be/jsd8TpzicRQ
+### 我的微信：stoeng
+
 A Model Context Protocol server
 
 This is a TypeScript-based MCP server that implements a simple notes system. It demonstrates core MCP concepts by providing:
